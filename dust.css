@@ -1,66 +1,53 @@
 @font-face{
-    font-family:"bfont";
-    src:url("bfont.ttf");
+    font-family:"gafata";
+    src:url("gafata.otf");
 }
 
 body{
-    font-family: "bfont";
+    font-family: "Gafata";
     padding:0px;
-    margin:0px;
-    background-color:rgb(57,57,57);
+    background-color:#09153D;
 }
-canvas{position:absolute;top:0px,left:0px;}
-header{
-    margin-top:0px;
-    padding:1em;
-    z-index:1;
-    color:#eeeeee;
-    text-align:center;
-    width:100%;
-    height:130px;
-    background-color:rgba(23,44,46,55);
-    background-size:100px 100px;
-    background-image:
-        repeating-linear-gradient(0deg,
-            transparent 0%, transparent 24%, rgb(60,60,60) 24%, rgb(60,60,60) 25%,
-            transparent 25%, transparent 49%, rgb(60,60,60) 49%, rgb(60,60,60) 50%,
-            transparent 50%, transparent 74%, rgb(60,60,60) 74%, rgb(60,60,60) 75%,
-            transparent 75%, transparent 99%, rgb(60,60,60) 99%, rgb(60,60,60) 100%),
-        repeating-linear-gradient(90deg,
-            transparent 0%, transparent 24%, rgb(60,60,60) 24%, rgb(60,60,60) 25%,
-            transparent 25%, transparent 49%, rgb(60,60,60) 49%, rgb(60,60,60) 50%,
-            transparent 50%, transparent 74%, rgb(60,60,60) 74%, rgb(60,60,60) 75%,
-            transparent 75%, transparent 99%, rgb(60,60,60) 99%, rgb(60,60,60) 100%),
-        repeating-linear-gradient(0deg,
-            transparent 0%, transparent 98%, rgb(60,60,60) 98%, rgb(60,60,60) 100%),
-        repeating-linear-gradient(90deg,
-            transparent 0%, transparent 98%, rgb(60,60,60) 98%, rgb(60,60,60) 100%);
-}
-article h2{text-align:center;}
-article{
-    vertical-align:top;
-    display:inline-block;
-    text-align:left;
-    width:78ex;
-    color:white;
-    background-image:
-        linear-gradient(0deg,rgba(166,166,166,23),rgba(138,138,138,59));
-    padding: 5em;
-    border:solid rgb(50,50,50) 0px 0px 3px 0px;
-    box-shadow: inset 0 0 27px rgba(190,190,190,40);
-}
-section{
-    text-align:center;
-    column-count:2;
-    margin:auto;
+main{
+    max-width:70em;
+    margin:0 auto;
 }
 
-a:link {color:#FFFFFF;}
+header{
+    text-align:center;
+    color:slategrey;
+}
+
+article h2{
+    color:#073642;
+    text-align:center;
+    font-size:36pt;
+    margin:0;
+    padding:0;
+    text-shadow: 5px 10px 15px #09153D;
+}
+article{
+    border-radius:3em;
+    color:white;
+    background-color:#002b36;
+    padding:4em 8em;
+    margin-bottom:5em;
+    box-shadow: inset 0px 0px 10px #09153D;
+}
+
+a:link {color:#268bd2;}
 a:visited {color:#DDDDDD;}
-a:hover {color:#686868;}
-a:active {color:#0000FF;}
+a:hover {color:#ccccaa;}
+a:active {color:#9bb2F9;}
 
 footer{
     text-align:center;
     color:gray;
+}
+li{
+    margin:5ex;
+    list-style:none;
+}
+li a{
+    font-size:22pt;
 }
