@@ -19,35 +19,33 @@ header{
 }
 
 article h2{
-    color:#073642;
+    color:#09153D;
     text-align:center;
-    font-size:36pt;
+    font-size:24pt;
     margin:0;
     padding:0;
     text-shadow: 5px 10px 15px #09153D;
 }
 article{
-    border-radius:3em;
+    font-size:14pt;
+    border-radius:1ex;
     color:black;
-    background-color:#E8E8E8;
-    padding:4em 8em;
-    margin-bottom:5em;
+    background-color:#858B9C;
+    padding:1em 2em;
+    margin-bottom:2em;
     box-shadow: inset 0px 0px 10px #09153D;
 }
 
-a:link {color:#268bd2;}
-a:visited {color:#6c71c4;}
+a:link {color:#268b00;}
+a:visited {color:#268b00;}
 a:hover {color:#2aa198;}
 a:active {color:#9bb2F9;}
 
 footer{
     text-align:center;
-    color:gray;
+    color:#123456;
 }
 li{
-    margin:5ex;
+    margin:1ex;
     list-style:none;
-}
-li a{
-    font-size:22pt;
 }
