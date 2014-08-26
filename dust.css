@@ -18,7 +18,17 @@ header{
     color:slategrey;
 }
 
-article h2{
+article{
+    font-size:14pt;
+    border-radius:1ex;
+    color:black;
+    background-color:#FFF7FB;
+    padding:1em 2em;
+    margin-bottom:2em;
+    box-shadow: inset 0px 0px 10px #09153D;
+}
+
+h2{
     color:#09153D;
     text-align:center;
     font-size:24pt;
@@ -26,20 +36,9 @@ article h2{
     padding:0;
     text-shadow: 5px 10px 15px #09153D;
 }
-article{
-    font-size:14pt;
-    border-radius:1ex;
-    color:black;
-    background-color:#858B9C;
-    padding:1em 2em;
-    margin-bottom:2em;
-    box-shadow: inset 0px 0px 10px #09153D;
-}
 
-a:link {color:#268b00;}
-a:visited {color:#268b00;}
-a:hover {color:#2aa198;}
-a:active {color:#9bb2F9;}
+/*a:link {color:#268b00;}*/
+/*a:visited {color:#268b00;}*/
 
 footer{
     text-align:center;
@@ -49,3 +48,6 @@ li{
     margin:1ex;
     list-style:none;
 }
+
+a:hover {color:#2aa198;}
+a:active {color:#9bb2F9;}
