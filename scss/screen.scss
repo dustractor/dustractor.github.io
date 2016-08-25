@@ -1,0 +1,120 @@
+@import url(https://fonts.googleapis.com/css?family=Corben:400,700);
+
+// establish a baseline {{{1
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font: inherit;
+  font-size: 100%;
+  vertical-align: baseline;
+}
+
+html {
+  line-height: 1;
+}
+
+ol, ul {
+  list-style: none;
+}
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+caption, th, td {
+  text-align: left;
+  font-weight: normal;
+  vertical-align: middle;
+}
+
+q, blockquote {
+  quotes: none;
+}
+q:before, q:after, blockquote:before, blockquote:after {
+  content: "";
+  content: none;
+}
+
+a img {
+  border: none;
+}
+
+article, aside, details, figcaption, figure, footer, header, hgroup, main, menu, nav, section, summary {
+  display: block;
+}
+// }}}1
+
+$dark:#e0e0e0;
+$color:#4223da;
+$lite:#dadada;
+$bg:$dark;
+$fg:$lite;
+$br:$color;
+
+
+body {
+    font-family:"Corben","Times New Roman",Serif;
+    padding:3em;
+    background-color:$bg;
+    color:$fg;
+}
+
+main{
+    max-width:42em;
+    margin:0 auto;
+}
+
+header{
+    text-align:center;
+    color:slategrey;
+}
+
+article{
+    font-size:14pt;
+    border-radius:1ex;
+    color:#232323;
+    background-color:#FFF7FB;
+    padding:1em 2em;
+    margin-bottom:2em;
+    box-shadow: inset 0px 0px 10px $bg;
+}
+
+h2{
+    color:$br;
+    text-align:center;
+    font-size:24pt;
+    margin:0;
+    padding:0;
+    text-shadow: 5px 10px 15px $bg;
+}
+
+a:link {color:#268b00;};
+a:visited {color:#268b00;}
+
+footer{
+    text-align:center;
+    color:#123456;
+}
+
+li{
+    margin:1ex;
+    list-style:none;
+}
+
+a:hover {color:#2aa198;}
+a:active {color:#9bb2F9;}
+
