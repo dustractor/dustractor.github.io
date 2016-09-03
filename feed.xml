@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>dustractor.github.io</title>
-    <description>This site is where I showcase of various bits of software and customization. Here you will find addons for blender, plugins for vim, an openbox pipe menu, several themes, a few wallpapers, and even the occasional blog entry.
+    <description>Opinionated software, one-pony tricks, bland customisation, dull wallpapers, and a virtual bi-weekly rant about conditions in the imaginary Kingdom of Norland.
 </description>
     <link>https://dustractor.github.io/</link>
     <atom:link href="https://dustractor.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 03 Sep 2016 02:07:49 -0500</pubDate>
-    <lastBuildDate>Sat, 03 Sep 2016 02:07:49 -0500</lastBuildDate>
+    <pubDate>Sat, 03 Sep 2016 02:18:31 -0500</pubDate>
+    <lastBuildDate>Sat, 03 Sep 2016 02:18:31 -0500</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
     
       <item>
