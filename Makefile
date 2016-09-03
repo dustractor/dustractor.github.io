@@ -1,7 +1,4 @@
-test:
-	sass scss/screen.scss style/screen.css
-	./gents > index.html
-	firefox index.html
+stage:
+	jekyll build
+	cp -r _site/* ~/dustractor.github.io
 
-code:
-	vim -c 'so proj.vim'
