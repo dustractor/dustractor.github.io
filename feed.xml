@@ -6,21 +6,22 @@
 </description>
     <link>https://dustractor.github.io/</link>
     <atom:link href="https://dustractor.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 06 Sep 2016 00:31:52 -0500</pubDate>
-    <lastBuildDate>Tue, 06 Sep 2016 00:31:52 -0500</lastBuildDate>
+    <pubDate>Sat, 10 Sep 2016 04:33:22 -0500</pubDate>
+    <lastBuildDate>Sat, 10 Sep 2016 04:33:22 -0500</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
     
       <item>
-        <title>message from the</title>
-        <description>&lt;p&gt;Well, they don’t call it web &lt;em&gt;master&lt;/em&gt; anymore for a reason.&lt;/p&gt;
-
+        <title>Up and Running</title>
+        <description>&lt;p&gt;With this post, my blog is up and running.&lt;/p&gt;
 </description>
-        <pubDate>Tue, 06 Sep 2016 00:30:49 -0500</pubDate>
-        <link>https://dustractor.github.io/post/2016/09/06/message.html</link>
-        <guid isPermaLink="true">https://dustractor.github.io/post/2016/09/06/message.html</guid>
+        <pubDate>Thu, 08 Sep 2016 03:19:06 -0500</pubDate>
+        <link>https://dustractor.github.io/this-site/update/2016/09/08/up-and-running.html</link>
+        <guid isPermaLink="true">https://dustractor.github.io/this-site/update/2016/09/08/up-and-running.html</guid>
         
         
-        <category>post</category>
+        <category>this-site</category>
+        
+        <category>update</category>
         
       </item>
     
