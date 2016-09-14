@@ -1,2 +1,3 @@
-
-*.swp
+Makefile
+proj.vim
+*.sw[a-zA-Z]
