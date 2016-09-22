@@ -63,6 +63,38 @@
   <div class="post-content">
     <p><a href="https://github.com/dustractor/obmexplorer/releases/download/v0.1/obmexplorer.py">download obmexplorer.py</a></p>
 
+<h1 id="usage">Usage</h1>
+
+<p>First, download the script and place it wherever you wish.</p>
+
+<p>Second, edit your openbox menu file ( <code class="highlighter-rouge">~/.config/openbox/menu.xml</code>), adding a
+menu node of an arbitrary label, id, and icon, and whose execute attribute is a
+string in the form of a command to have a python(3) interpreter execute
+<code class="highlighter-rouge">obmexeplorer.py</code> (wherever you have placed it), possibly with arguments
+<code class="highlighter-rouge">--show-sys</code>, <code class="highlighter-rouge">--no-dirs</code>, <code class="highlighter-rouge">--no-recurse</code>, or <code class="highlighter-rouge">--no-files</code>.  Multiple
+directories may be specified, or in the case where none are specified, home
+directory <code class="highlighter-rouge">~</code> is used.</p>
+
+<h4 id="here-are-some-lines-to-get-you-started">Here are some lines to get you started:</h4>
+
+<pre><code class="language-{.xml}">
+&lt;menu label="docsdeskdown"
+    id="obmexplorer-menu-three-dees"
+    execute="/usr/bin/python3 /home/user/code/obmexplorer/obmexplorer.py --show-sys --no-recurse ~/Documents ~/Desktop ~/Downloads"
+    icon="/home/user/Desktop/drawing.svg" /&gt;
+
+&lt;menu label="home"
+    id="obmexplorer-home-menu"
+    execute="/usr/bin/python3 /home/user/code/obmexplorer/obmexplorer.py"
+    icon="/usr/share/icons/Adwaita/16x16/actions/go-home.png" /&gt;
+
+&lt;menu label="home files"
+    id="obmexplorer-home-dotfiles-menu"
+    execute="/usr/bin/python3 /home/user/code/obmexplorer/obmexplorer.py --no-dirs --no-recurse --show-sys"
+    icon="/usr/share/icons/Adwaita/16x16/actions/go-home.png" /&gt;
+
+</code></pre>
+
 
   </div>
 
