@@ -55,9 +55,10 @@ ul, ol {
 li > ul,
 li > ol {
   margin-bottom: 0; }
-  li > ul a,
-  li > ol a {
-    display: inline; }
+  li > ul > a,
+  li > ol > a {
+    display: inline;
+    border-right: solid red 1px; }
 
 /**
  * Headings
