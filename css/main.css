@@ -13,8 +13,8 @@ dl, dd, ol, ul, figure {
  */
 body {
   font: 400 16px/1.5 "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color: #111;
-  background-color: #696969;
+  color: #B2B4B3;
+  background-color: #424242;
   -webkit-text-size-adjust: 100%;
   -webkit-font-feature-settings: "kern" 1;
   -moz-font-feature-settings: "kern" 1;
@@ -72,7 +72,7 @@ a {
   a:visited {
     color: #4d004d; }
   a:hover {
-    color: #111;
+    color: #B2B4B3;
     text-decoration: underline; }
 
 /**
@@ -149,8 +149,8 @@ pre {
   border-top: 5px solid #383838;
   border-bottom: 1px solid #dedede;
   min-height: 56px;
-  background-color: #696969;
-  color: #111;
+  background-color: #424242;
+  color: #B2B4B3;
   position: relative; }
 
 .site-title {
@@ -170,7 +170,7 @@ pre {
   .site-nav .menu-icon {
     display: none; }
   .site-nav .page-link {
-    color: #111;
+    color: #B2B4B3;
     line-height: 1.5; }
     .site-nav .page-link:not(:last-child) {
       margin-right: 20px; }
@@ -179,7 +179,7 @@ pre {
       position: absolute;
       top: 9px;
       right: 15px;
-      background-color: #696969;
+      background-color: #424242;
       border: 1px solid #dedede;
       border-radius: 5px;
       text-align: right; }
@@ -260,7 +260,7 @@ pre {
     width: calc(100% - (30px / 2)); } }
 .page-content {
   padding: 30px 0;
-  background-color: #696969; }
+  background-color: #424242; }
 
 .page-heading {
   font-size: 20px;
