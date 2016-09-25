@@ -145,13 +145,12 @@ pre {
   .icon > svg path {
     fill: #787878; }
 
-/**
- * Site header
- */
 .site-header {
   border-top: 5px solid #383838;
   border-bottom: 1px solid #dedede;
   min-height: 56px;
+  background-color: #696969;
+  color: #111;
   position: relative; }
 
 .site-title {
@@ -210,9 +209,6 @@ pre {
         .site-nav .page-link:not(:last-child) {
           margin-right: 0; } }
 
-/**
- * Site footer
- */
 .site-footer {
   border-top: 1px solid #dedede;
   padding: 30px 0; }
@@ -262,11 +258,9 @@ pre {
     float: none;
     width: -webkit-calc(100% - (30px / 2));
     width: calc(100% - (30px / 2)); } }
-/**
- * Page content
- */
 .page-content {
-  padding: 30px 0; }
+  padding: 30px 0;
+  background-color: #696969; }
 
 .page-heading {
   font-size: 20px;
@@ -286,9 +280,6 @@ pre {
   display: inline-block;
   font-size: 24px; }
 
-/**
- * Posts
- */
 .post-header {
   margin-bottom: 30px; }
 
