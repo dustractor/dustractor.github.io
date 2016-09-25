@@ -155,7 +155,7 @@ pre {
   position: relative; }
 
 .site-title {
-  color: #697899;
+  color: #dedede;
   font-family: "Sansita One", sans-serif;
   font-size: 48px;
   font-weight: 300;
@@ -164,7 +164,7 @@ pre {
   margin-bottom: 0;
   float: left; }
   .site-title, .site-title:visited {
-    color: #383838; }
+    color: #dedede; }
 
 .site-nav {
   float: right;
