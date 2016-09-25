@@ -2,7 +2,6 @@
  * Reset some basic elements
  */
 @import "https://fonts.googleapis.com/css?family=Sansita+One|Tenali+Ramakrishna";
-@import "https://fonts.googleapis.com/css?family=Sansita+One|Tenali+Ramakrishna";
 body, h1, h2, h3, h4, h5, h6,
 p, blockquote, pre, hr,
 dl, dd, ol, ul, figure {
@@ -156,7 +155,7 @@ pre {
   position: relative; }
 
 .site-title {
-  font-family: 'Tenali Ramakrishna', sans-serif;
+  font-family: "Tenali Ramakrishna", sans-serif;
   font-size: 36px;
   font-weight: 300;
   line-height: 56px;
