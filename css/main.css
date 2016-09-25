@@ -315,15 +315,15 @@ pre {
  * Syntax highlighting styles
  */
 .highlight {
-  background: #fff; }
+  background: #424242; }
   .highlighter-rouge .highlight {
-    background: #eef; }
+    background: #232323; }
   .highlight .c {
     color: #998;
     font-style: italic; }
   .highlight .err {
-    color: #a61717;
-    background-color: #e3d2d2; }
+    color: #F00;
+    background-color: #000; }
   .highlight .k {
     font-weight: bold; }
   .highlight .o {
