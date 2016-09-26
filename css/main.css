@@ -79,8 +79,8 @@ a {
  * Blockquotes
  */
 blockquote {
-  color: #787878;
-  border-left: 4px solid #dedede;
+  color: #696969;
+  border-left: 4px solid #bdbdbd;
   padding-left: 15px;
   font-size: 18px;
   letter-spacing: -1px;
@@ -94,7 +94,7 @@ blockquote {
 pre,
 code {
   font-size: 12px;
-  border: 1px solid #dedede;
+  border: 1px solid #bdbdbd;
   border-radius: 3px;
   background-color: #292929;
   color: #989b9a; }
@@ -144,18 +144,18 @@ pre {
   height: 16px;
   vertical-align: middle; }
   .icon > svg path {
-    fill: #787878; }
+    fill: #696969; }
 
 .site-header {
-  border-top: 5px solid #383838;
-  border-bottom: 1px solid #dedede;
+  border-top: 5px solid #393939;
+  border-bottom: 1px solid #bdbdbd;
   min-height: 56px;
   background-color: #424242;
   color: #B2B4B3;
   position: relative; }
 
 .site-title {
-  color: #dedede;
+  color: #bdbdbd;
   font-family: "Sansita One", sans-serif;
   font-size: 48px;
   font-weight: 300;
@@ -164,7 +164,7 @@ pre {
   margin-bottom: 0;
   float: left; }
   .site-title, .site-title:visited {
-    color: #dedede; }
+    color: #bdbdbd; }
 
 .site-nav {
   float: right;
@@ -182,7 +182,7 @@ pre {
       top: 9px;
       right: 15px;
       background-color: #424242;
-      border: 1px solid #dedede;
+      border: 1px solid #bdbdbd;
       border-radius: 5px;
       text-align: right; }
       .site-nav .menu-icon {
@@ -197,7 +197,7 @@ pre {
           width: 18px;
           height: 15px; }
           .site-nav .menu-icon > svg path {
-            fill: #383838; }
+            fill: #393939; }
       .site-nav .trigger {
         clear: both;
         display: none; }
@@ -212,7 +212,7 @@ pre {
           margin-right: 0; } }
 
 .site-footer {
-  border-top: 1px solid #dedede;
+  border-top: 1px solid #bdbdbd;
   padding: 30px 0; }
 
 .footer-heading {
@@ -226,7 +226,7 @@ pre {
 
 .footer-col-wrapper {
   font-size: 15px;
-  color: #787878;
+  color: #696969;
   margin-left: -15px; }
 
 .footer-col {
@@ -276,7 +276,7 @@ pre {
 
 .post-meta {
   font-size: 14px;
-  color: #787878; }
+  color: #696969; }
 
 .post-link {
   display: inline-block;
