@@ -6,8 +6,8 @@
 </description>
     <link>https://dustractor.github.io/</link>
     <atom:link href="https://dustractor.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 25 Oct 2016 23:57:47 -0500</pubDate>
-    <lastBuildDate>Tue, 25 Oct 2016 23:57:47 -0500</lastBuildDate>
+    <pubDate>Sun, 27 Nov 2016 03:34:34 -0600</pubDate>
+    <lastBuildDate>Sun, 27 Nov 2016 03:34:34 -0600</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
     
       <item>
@@ -52,6 +52,42 @@
         <category>posts</category>
         
         <category>welp</category>
+        
+      </item>
+    
+      <item>
+        <title>Todo list a mile long</title>
+        <description>&lt;p&gt;I chose to use Jekyll precisely because it is written in a language I am not
+familiar with.  I am only familiar with ruby in the sense that I have sometimes
+done &lt;code class=&quot;highlighter-rouge&quot;&gt;gem install thisandthat&lt;/code&gt; and I might have once attempted a hello world
+in it but I think I only made it as far as &lt;code class=&quot;highlighter-rouge&quot;&gt;puts &quot;foo&quot;&lt;/code&gt; in a terminal, before
+I ran into some system issues (was on a mac then, and had made the mistake of
+installing (by compiling) on top of the system one that the os wanted. Luckily
+I had backed up, but when I finally found proper informations it was too late.
+My initial impression was formed badly I guess. I don’t know why.&lt;/p&gt;
+
+&lt;p&gt;It’s just that there are so many things to learn and at some point in my life I
+think that I started ‘slapping my wrist’ so to speak, at the thought of
+learning new things, because I’d rather cover over a small area thoroughly
+instead of traveling great distances and missing all the bits in between.&lt;/p&gt;
+
+&lt;p&gt;I think people should slow down and travel no faster than the stories they can
+tell of a place while they pass through it.  If they know nothing about a place
+they should probably do their best to listen.&lt;/p&gt;
+
+&lt;p&gt;And not interrupt.&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 08 Sep 2016 03:19:06 -0500</pubDate>
+        <link>https://dustractor.github.io/this-site/update/todo/2016/09/08/green-screen.html</link>
+        <guid isPermaLink="true">https://dustractor.github.io/this-site/update/todo/2016/09/08/green-screen.html</guid>
+        
+        
+        <category>this-site</category>
+        
+        <category>update</category>
+        
+        <category>todo</category>
         
       </item>
     
