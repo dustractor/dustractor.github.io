@@ -1,0 +1,17 @@
+#+TITLE: site dot org
+
+* addons of note
+  some of these may be useful
+  * [[https://github.com/dustractor/tkit][tkit]]
+  * [[https://github.com/dustractor/conway][ conway ]]
+  * [[https://github.com/dustractor/cygon_pack][ cygon_pack ]]
+  * [[https://github.com/dustractor/gradience][ gradience ]]
+  * [[https://github.com/dustractor/hotkey_viewer][ hotkey_viewer ]]
+  * [[https://github.com/dustractor/matlib][ matlib ]]
+  * [[https://github.com/dustractor/miotet][ miotet ]]
+  * [[https://github.com/dustractor/node_position_adjust][ node_position_adjust ]]
+  * [[https://github.com/dustractor/syspropchart2][ syspropchart2 ]]
+  * [[https://github.com/dustractor/vpprompt][ vpprompt ]]
+
+* other things of note
+  of which i can thing of nothing
