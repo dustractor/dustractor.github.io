@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: so is this like my blog or something
 ---
 
