@@ -1,0 +1,6 @@
+---
+layout: post
+title: test post
+---
+
+testing 1 2 3
