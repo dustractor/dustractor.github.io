@@ -1,3 +1,2 @@
-Makefile
-proj.vim
 *.sw[a-zA-Z]
+autocommit.cmd
