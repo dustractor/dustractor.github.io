@@ -1,6 +1,6 @@
 ---
 layout: default
-title: so is this like my blog or something
+title: Theoretically this is like my 'home' page or something
 ---
 
 
