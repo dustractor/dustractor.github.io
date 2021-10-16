@@ -3,7 +3,7 @@ layout: default
 title: Theoretically this is like my 'home' page or something
 ---
 
-idk
+![/img/handshands.webm]
 
 ### Posts:
 
