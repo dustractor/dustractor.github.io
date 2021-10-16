@@ -3,6 +3,10 @@ layout: default
 title: Theoretically this is like my 'home' page or something
 ---
 
+<video loop>
+<source src="/img/handshands.webm" type="video/webm">
+</video>
+
 ![hands](/img/handshands.webm)
 
 ### Posts:
