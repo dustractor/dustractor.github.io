@@ -3,6 +3,7 @@ layout: default
 title: so is this like my blog or something
 ---
 
+testing out some auto shit
 
 ### Posts:
 
