@@ -3,7 +3,7 @@ layout: default
 title: Theoretically this is like my 'home' page or something
 ---
 
-![/img/handshands.webm]
+![](/img/handshands.webm)
 
 ### Posts:
 
