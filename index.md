@@ -3,7 +3,7 @@ layout: default
 title: Theoretically this is like my 'home' page or something
 ---
 
-<video autoplay loop>
+<video autoplay muted loop>
 <source src="/img/handshands.webm" type="video/webm">
 </video>
 
