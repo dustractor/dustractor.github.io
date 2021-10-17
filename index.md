@@ -4,10 +4,9 @@ title: Theoretically this is like my 'home' page or something
 ---
 
 <video autoplay muted loop>
-<source src="/img/handshands.webm" type="video/webm">
+<source src="/img/handshands_small.webm" type="video/webm">
 </video>
 
-![hands](/img/handshands.webm)
 
 ### Posts:
 
