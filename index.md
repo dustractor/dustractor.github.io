@@ -7,7 +7,6 @@ title: Theoretically this is like my 'home' page or something
 <source src="/img/handshands_small.webm" type="video/webm">
 </video>
 
-
 ### Posts:
 
 <ul>
