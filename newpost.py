@@ -1,6 +1,10 @@
-import pathlib,datetime,re,subprocess
+import pathlib,datetime,re,subprocess,os
 import tkinter as tk
 from tkinter import simpledialog
+
+programfiles = pathlib.Path(os.getenv("ProgramFiles"))
+_VIM_PATH = programfiles / "vim" / "vim90" / "gvim.exe"
+
 
 badchars= re.compile(r'[^A-Za-z0-9_. ]+|^\.|\.$|^ | $|^$')
 badnames= re.compile(r'(aux|com[1-9]|con|lpt[1-9]|prn)(\.|$)')
@@ -24,4 +28,4 @@ fname = f"{y}-{m:02}-{d:02}-{slug}.md"
 targetdir = "_posts"
 p = pathlib.Path(targetdir) / fname
 p.touch()
-subprocess.run(["c:\\Program Files\\Vim\\vim82\\gvim.exe",p])
+subprocess.run([_VIM_PATH,p])
