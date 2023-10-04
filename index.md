@@ -17,3 +17,5 @@ title: Theoretically this is like my 'home' page or something
   {% endfor %}
 </ul>
 
+
+[VKAL](/vkal.html)
