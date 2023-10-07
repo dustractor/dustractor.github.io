@@ -8,6 +8,8 @@
 * Contralogic Productions - [Cadencia](https://www.contralogic.com/vst-plugins/cadencia/)
 * Contralogic Productions - [Feldspar](https://www.contralogic.com/vst-plugins/feldspar/)
 * Contralogic Productions - [Pterosaur2](https://www.contralogic.com/vst-plugins/pterosaur/)
+* DISTRHO - [Cardinal](https://cardinal.kx.studio)
+* d16 Group - [Frontier](https://d16.pl/frontier)
 * Full Bucket Music - [Blooo](http://music.fullbucket.de/blooo.html)
 * Full Bucket Music - [Modulair](http://music.fullbucket.de/modulair.html)
 * Full Bucket Music - [Qyooo](http://music.fullbucket.de/qyooo.html)
@@ -52,6 +54,13 @@
 * Mucoder - [ToneSpace](https://www.mucoder.net/en/tonespace/)
 * TobyBear - [PeakFreak](https://plugins4free.com/plugin/1565/)
 * Tonecarver - [Nova3](https://tonecarver.wordpress.com/nova3-generative-sequencer-vst/)
+
+## Analysis
+
+* Youlean - [Youlean Loudness Meter](https://youlean.co/youlean-loudness-meter/)
+* Voxengo - [SPAN](https://www.voxengo.com/product/span/)
+* iZotope - [Ozone Imager](https://www.izotope.com/en/products/ozone-imager.html)
+
 
 ## Effect
 
