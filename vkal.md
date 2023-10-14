@@ -15,6 +15,7 @@
 * Full Bucket Music - [Qyooo](http://music.fullbucket.de/qyooo.html)
 * Full Bucket Music - [Scrooo](http://music.fullbucket.de/scrooo.html)
 * Full Bucket Music - [Whispair](http://music.fullbucket.de/whispair.html)
+* Integraudio & Sixth Sample - [Deelay](https://sixthsample.com/deelay/)
 * Linplug - [Free Alpha](https://plugins4free.com/plugin/2290/)
 * Magnus @ Smart Electronix - mjHarmonicPingOnly (unavailable)
 * Majken - [SubDuer](https://plugins4free.com/plugin/428/)
