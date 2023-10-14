@@ -78,6 +78,7 @@
 * Analog Obsession - [OSS](https://www.patreon.com/posts/oss-34292591)
 * Analog Obsession - [YALA](https://www.patreon.com/posts/yala-34323384)
 * Analog Obsession - [dBComp](https://www.patreon.com/posts/dbcomp-56933944)
+* Cymatics - [Deja Vu](https://cymatics.fm/products/deja-vu-plugin)
 * Dragonfly Reverb - [Dragonfly Hall](https://michaelwillis.github.io/dragonfly-reverb/)
 * Kilohearts - [Trance Gate](https://kilohearts.com/products/trance_gate)
 * Polyverse - [Filtron](https://polyversemusic.com/products/filtron/)
