@@ -33,6 +33,7 @@
 * Surge Synth Team - [Surge XT](https://surge-synthesizer.github.io)
 * Synthescience- [Prodigious](https://plugins4free.com/plugin/1328/)
 * The SynthFactory - [Azimuth](https://thesynthfactory.com/azimuth/)
+* Tokyo Dawn Records - [TDR Nova](https://www.tokyodawn.net/tdr-nova/)
 * U-He - [Podolski](https://u-he.com/products/podolski/)
 * U-He - [Triple Cheese](https://u-he.com/products/triplecheese/)
 * U-He - [Tyrell N6](https://u-he.com/products/tyrelln6/)
@@ -66,7 +67,10 @@
 ## Effect
 
 * Adam Szabo - [Solaris](https://www.adamszabo.com/vstplugins/solaris/)
+* AirWindows - Too many to list them all here. Hundreds! Here are a few:
 * AirWindows - [Dirt](https://www.airwindows.com/dirt/)
+* AirWindows - [ToTape6](https://www.airwindows.com/totape6/)
+* AirWindows - [ADClip7](https://www.airwindows.com/adclip-7/)
 * Analog Obsession - [FRANK](https://www.patreon.com/posts/f-bundle-83415951)
 * Analog Obsession - [Harqules](https://www.patreon.com/posts/34306427)
 * Analog Obsession - [LALA](https://www.patreon.com/posts/lala-36128829)
