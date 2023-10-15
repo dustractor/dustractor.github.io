@@ -10,6 +10,7 @@
 * Contralogic Productions - [Pterosaur2](https://www.contralogic.com/vst-plugins/pterosaur/)
 * Daichi Laboratory - [Synth1](https://daichilab.sakura.ne.jp/softsynth/index.html)
 * DISTRHO - [Cardinal](https://cardinal.kx.studio)
+* Extent of the Jam - [Digits](http://www.extentofthejam.com)
 * Full Bucket Music - [Blooo](http://music.fullbucket.de/blooo.html)
 * Full Bucket Music - [Modulair](http://music.fullbucket.de/modulair.html)
 * Full Bucket Music - [Qyooo](http://music.fullbucket.de/qyooo.html)
