@@ -8,7 +8,7 @@
 * Contralogic Productions - [Cadencia](https://www.contralogic.com/vst-plugins/cadencia/)
 * Contralogic Productions - [Feldspar](https://www.contralogic.com/vst-plugins/feldspar/)
 * Contralogic Productions - [Pterosaur2](https://www.contralogic.com/vst-plugins/pterosaur/)
-* Daichi Laboratory - [Synth1](https://www.kvraudio.com/product/synth1-by-daichi-laboratory-ichiro-toda/downloads)
+* Daichi Laboratory - [Synth1](https://daichilab.sakura.ne.jp/softsynth/index.html)
 * DISTRHO - [Cardinal](https://cardinal.kx.studio)
 * d16 Group - [Frontier](https://d16.pl/frontier)
 * Full Bucket Music - [Blooo](http://music.fullbucket.de/blooo.html)
