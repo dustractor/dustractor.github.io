@@ -4,6 +4,7 @@
 
 * 2Rule - [2RuleSynth](https://akyuz5.wixsite.com/mysite/2rulesynth)
 * AlgoMusic - [Phadiz](https://plugins4free.com/plugin/431/)
+* Blake Robinson Synthetic Orchestra - [BRSO Articulate](http://www.syntheticorchestra.com/tools/articulate/)
 * Blamsoft - [VK-1 Viking Synthesizer](https://blamsoft.com/vst/vk-1-viking-synthesizer/)
 * Contralogic Productions - [Cadencia](https://www.contralogic.com/vst-plugins/cadencia/)
 * Contralogic Productions - [Feldspar](https://www.contralogic.com/vst-plugins/feldspar/)
@@ -18,6 +19,7 @@
 * Full Bucket Music - [Whispair](http://music.fullbucket.de/whispair.html)
 * Integraudio & Sixth Sample - [Deelay](https://sixthsample.com/deelay/)
 * Linplug - [Free Alpha](https://plugins4free.com/plugin/2290/)
+* Manda Audio - [MT PowerDrumkit](https://www.powerdrumkit.com/)
 * Magnus @ Smart Electronix - mjHarmonicPingOnly (unavailable)
 * Majken - [SubDuer](https://plugins4free.com/plugin/428/)
 * MaxSynths - [Crysalis](https://plugins4free.com/plugin/2378/)
@@ -41,6 +43,14 @@
 * U-He - [Zebralette](https://u-he.com/products/zebralette/)
 * VAST Dynamics - [Vaporizer2](https://www.vast-dynamics.com/?q=Vaporizer2)
 * Vital Audio - [Vital](https://vital.audio)
+* Xoxos - [Mass](https://plugins4free.com/plugin/1265/)
+* Xoxos - [Oscine Tract](https://plugins4free.com/plugin/1251/)
+* Xoxos - [Saros](https://plugins4free.com/plugin/179/)
+* Xoxos - [Synsect](https://plugins4free.com/plugin/321/)
+* Xoxos - [Utopia](https://plugins4free.com/plugin/180/)
+* Xoxos - [Boing2](https://plugins4free.com/plugin/317/)
+* Xoxos - [Fauna](https://plugins4free.com/plugin/1248/)
+* Xoxos - [Bong](https://plugins4free.com/plugin/3015/)
 
 ## Sampler / Drum Machine
 
