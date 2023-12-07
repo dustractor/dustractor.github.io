@@ -4,7 +4,7 @@
 
 * 2Rule - [2RuleSynth](https://akyuz5.wixsite.com/mysite/2rulesynth)
 * AlgoMusic - [Phadiz](https://plugins4free.com/plugin/431/)
-* Blake Robinson Synthetic Orchestra - [BRSO Articulate](http://www.syntheticorchestra.com/tools/articulate/)
+* Cherry Audio - [Surrealistic MG-1 Plus](https://cherryaudio.com/products/surrealistic-mg-1-plus)
 * Blamsoft - [VK-1 Viking Synthesizer](https://blamsoft.com/vst/vk-1-viking-synthesizer/)
 * Contralogic Productions - [Cadencia](https://www.contralogic.com/vst-plugins/cadencia/)
 * Contralogic Productions - [Feldspar](https://www.contralogic.com/vst-plugins/feldspar/)
@@ -35,6 +35,7 @@
 * Superwave Synths - [SuperwaveP8](https://plugins4free.com/plugin/244/)
 * Surge Synth Team - [Surge XT](https://surge-synthesizer.github.io)
 * Synthescience- [Prodigious](https://plugins4free.com/plugin/1328/)
+* TAL - [TAL-Bassline](https://tal-software.com/products/tal-bassline)
 * The SynthFactory - [Azimuth](https://thesynthfactory.com/azimuth/)
 * Tokyo Dawn Records - [TDR Nova](https://www.tokyodawn.net/tdr-nova/)
 * U-He - [Podolski](https://u-he.com/products/podolski/)
@@ -58,6 +59,8 @@
 * Ronan Fed - [RF-Pads](https://plugins4free.com/plugin/3894/)
 * Spitfire Audio - [BBC Symphony Orchestra](https://www.spitfireaudio.com/bbc-symphony-orchestra-discover)
 * Spitfire Audio - [LABS](https://labs.spitfireaudio.com/)
+* CWITEC - [TX16Wx](https://www.tx16wx.com)
+* Tonecarver - [tcStretch](https://tonecarver.wordpress.com/tcstretch/)
 
 ## MIDI
 
@@ -67,9 +70,12 @@
 * Mucoder - [ToneSpace](https://www.mucoder.net/en/tonespace/)
 * TobyBear - [PeakFreak](https://plugins4free.com/plugin/1565/)
 * Tonecarver - [Nova3](https://tonecarver.wordpress.com/nova3-generative-sequencer-vst/)
+* Blake Robinson Synthetic Orchestra - [BRSO Articulate](http://www.syntheticorchestra.com/tools/articulate/)
 
 ## Analysis
 
+* Bom Shanka Machines - [occularScope](https://bomshankamachin.es/plugins/occularScope)
+* FX23 - [Psyscope](https://fx23.net/psyscope/)
 * Youlean - [Youlean Loudness Meter](https://youlean.co/youlean-loudness-meter/)
 * Voxengo - [SPAN](https://www.voxengo.com/product/span/)
 * iZotope - [Ozone Imager](https://www.izotope.com/en/products/ozone-imager.html)
@@ -91,7 +97,9 @@
 * Analog Obsession - [dBComp](https://www.patreon.com/posts/dbcomp-56933944)
 * Cymatics - [Deja Vu](https://cymatics.fm/products/deja-vu-plugin)
 * d16 Group - [Frontier](https://d16.pl/frontier)
+* Daniel Gergely - [Emergence](https://daniel-gergely.itch.io/emergence)
 * Dragonfly Reverb - [Dragonfly Hall](https://michaelwillis.github.io/dragonfly-reverb/)
+* Ignite Amps - [PTEq-X](https://www.igniteamps.com/#pteq-x)
 * Kilohearts - [Trance Gate](https://kilohearts.com/products/trance_gate)
 * Polyverse - [Filtron](https://polyversemusic.com/products/filtron/)
 * Polyverse - [Wider](https://polyversemusic.com/products/wider/)
