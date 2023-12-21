@@ -18,6 +18,8 @@ title: Theoretically this is like my 'home' page or something
 </ul>
 
 
-[VKAL](/vkal.html)
+[VKAL](/vkal.html) Vsts I have known and loved
 
-[YTSUBS](/ytsubs.html)
+[YTSUBS](/ytsubs.html) I scraped my youtube subscriptions
+
+[Binned Polymaths 7](/binnedpolymaths7.html) A fucked up dream about a cult
