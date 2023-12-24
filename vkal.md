@@ -4,6 +4,8 @@
 
 * 2Rule - [2RuleSynth](https://akyuz5.wixsite.com/mysite/2rulesynth)
 * AlgoMusic - [Phadiz](https://plugins4free.com/plugin/431/)
+* Chair Audio - [Exc!te Snare Drum](https://www.chair.audio/product/excite_snare_drum/)
+* Chair Audio - [Exc!te Cymbal](https://www.chair.audio/product/excte-cymbal/)
 * Cherry Audio - [Surrealistic MG-1 Plus](https://cherryaudio.com/products/surrealistic-mg-1-plus)
 * Blamsoft - [VK-1 Viking Synthesizer](https://blamsoft.com/vst/vk-1-viking-synthesizer/)
 * Contralogic Productions - [Cadencia](https://www.contralogic.com/vst-plugins/cadencia/)
@@ -17,6 +19,7 @@
 * Full Bucket Music - [Qyooo](http://music.fullbucket.de/qyooo.html)
 * Full Bucket Music - [Scrooo](http://music.fullbucket.de/scrooo.html)
 * Full Bucket Music - [Whispair](http://music.fullbucket.de/whispair.html)
+* Inear Display - [BREF](https://www.ineardisplay.com/plugins/bref/)
 * Integraudio & Sixth Sample - [Deelay](https://sixthsample.com/deelay/)
 * Linplug - [Free Alpha](https://plugins4free.com/plugin/2290/)
 * Manda Audio - [MT PowerDrumkit](https://www.powerdrumkit.com/)
@@ -28,7 +31,7 @@
 * Nakst - [Regency](https://nakst.gitlab.io/regency/)
 * Newfangled Audio - [Pendulate](https://www.eventideaudio.com/plug-ins/pendulate/)
 * NuSofting - [Sinnah](https://nusofting.com/plugins/sinnah)
-* Ronan Fed - [Essence Plus](https://plugins4free.com/plugin/3912/)
+* Ronan Fed - [Essence Plus](https://plugins4free.com/plugin/3912/) *leaks memory :(
 * Ronan Fed - [Essence](https://plugins4free.com/plugin/3811/)
 * Ronan Fed - [Pneuma](https://plugins4free.com/plugin/3807/)
 * Seaweed Audio - [Fathom](https://www.fathomsynth.com)
@@ -75,6 +78,7 @@
 ## Analysis
 
 * Bom Shanka Machines - [occularScope](https://bomshankamachin.es/plugins/occularScope)
+* Press Play - [Wave Observer](https://pressplay-music.com/wave-observer/)
 * FX23 - [Psyscope](https://fx23.net/psyscope/)
 * Youlean - [Youlean Loudness Meter](https://youlean.co/youlean-loudness-meter/)
 * Voxengo - [SPAN](https://www.voxengo.com/product/span/)
