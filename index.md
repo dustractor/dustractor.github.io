@@ -17,6 +17,7 @@ title: Theoretically this is like my 'home' page or something
   {% endfor %}
 </ul>
 
+[random neat sites](/neatsites.html)
 
 [VKAL](/vkal.html) Vsts I have known and loved
 

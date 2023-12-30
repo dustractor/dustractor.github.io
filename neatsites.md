@@ -2,6 +2,8 @@ https://music.ishkur.com/
 
 https://everynoise.com/
 
+https://radiooooo.com
+
 https://www.desertedislandmusic.nl/artists/space-art/
 
 https://latentdictionary.com
