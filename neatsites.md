@@ -22,4 +22,6 @@ https://www.knotend.com
 
 https://pointerpointer.com
 
+https://www.desmos.com/calculator/egt4lkk9ow
 
+https://www.autoeq.app
