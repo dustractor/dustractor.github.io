@@ -16,3 +16,8 @@ https://asciiflow.com
 
 https://earth.nullschool.net
 
+https://ourworldofpixels.com
+
+https://www.knotend.com
+
+
