@@ -1,27 +1,28 @@
-https://music.ishkur.com/
 
-https://everynoise.com/
+[music.ishkur.com/](https://music.ishkur.com/)
 
-https://radiooooo.com
+[everynoise.com/](https://everynoise.com/)
 
-https://www.desertedislandmusic.nl/artists/space-art/
+[radiooooo.com](https://radiooooo.com)
 
-https://latentdictionary.com
+[www.desertedislandmusic.nl/artists/space-art/](https://www.desertedislandmusic.nl/artists/space-art/)
 
-https://gnoosic.com
+[latentdictionary.com](https://latentdictionary.com)
 
-https://liveuamap.com
+[gnoosic.com](https://gnoosic.com)
 
-https://asciiflow.com
+[liveuamap.com](https://liveuamap.com)
 
-https://earth.nullschool.net
+[asciiflow.com](https://asciiflow.com)
 
-https://ourworldofpixels.com
+[earth.nullschool.net](https://earth.nullschool.net)
 
-https://www.knotend.com
+[ourworldofpixels.com](https://ourworldofpixels.com)
 
-https://pointerpointer.com
+[www.knotend.com](https://www.knotend.com)
 
-https://www.desmos.com/calculator/egt4lkk9ow
+[pointerpointer.com](https://pointerpointer.com)
 
-https://www.autoeq.app
+[www.desmos.com/calculator/egt4lkk9ow](https://www.desmos.com/calculator/egt4lkk9ow)
+
+[www.autoeq.app](https://www.autoeq.app)
