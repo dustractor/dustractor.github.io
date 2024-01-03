@@ -128,7 +128,7 @@
 
 * Arturia - [Pigments](https://www.arturia.com/products/software-instruments/pigments/overview)
 * Kilohearts - [Phase Plant](https://kilohearts.com/products/phase_plant)
-* Xfer Records - [Serum](https://xferrecords.com/products/serum))
+* Xfer Records - [Serum](https://xferrecords.com/products/serum)
 * Xfer Records - [Cthulhu](https://xferrecords.com/products/cthulhu)
 * Rob Papen - [Go2-X](https://www.robpapen.com/Go2-x.html)
 * Rob Papen - [Albino3 Legend](https://www.robpapen.com/albino-3-legend.html)
@@ -145,3 +145,7 @@
 * U-He - [Hive 2](https://u-he.com/products/hive/)
 * U-He - [Diva](https://u-he.com/products/diva/)
 * Sonic Academy - [ANA 2](https://www.sonicacademy.com/products/ana-2)
+* Valhalla - [Valhalla Room](https://valhalladsp.com/shop/reverb/valhalla-room/)
+* Valhalla - [Valhalla Shimmer](https://valhalladsp.com/shop/reverb/valhalla-shimmer/)
+* Valhalla - [Valhalla Ubermod](https://valhalladsp.com/shop/delay/valhalla-uber-mod/)
+
