@@ -1,5 +1,7 @@
 # VSTs Known and Loved
 
+
+
 ## Synth
 
 * 2Rule - [2RuleSynth](https://akyuz5.wixsite.com/mysite/2rulesynth)
@@ -120,3 +122,26 @@
 * Kilohearts - [Kilohearts Essentials](https://kilohearts.com/products/kilohearts_essentials)
 * Melda Production - [MFreeFXBundle](https://www.meldaproduction.com/MFreeFXBundle)
 * Reaper - [ReaPlugs](https://www.reaper.fm/reaplugs/)
+
+
+# Vsts worth paying money for:
+
+* Arturia - [Pigments](https://www.arturia.com/products/software-instruments/pigments/overview)
+* Kilohearts - [Phase Plant](https://kilohearts.com/products/phase_plant)
+* Xfer Records - [Serum](https://xferrecords.com/products/serum))
+* Xfer Records - [Cthulhu](https://xferrecords.com/products/cthulhu)
+* Rob Papen - [Go2-X](https://www.robpapen.com/Go2-x.html)
+* Rob Papen - [Albino3 Legend](https://www.robpapen.com/albino-3-legend.html)
+* Rob Papen - [Predator 3](https://www.robpapen.com/Predator-3.html)
+* Rob Papen - [Blue-III](https://www.robpapen.com/blue3.html)
+* Rob Papen - [BIT-II](https://www.robpapen.com/bit2.html)
+* Rob Papen - [RG](https://www.robpapen.com/rg.html)
+* Dmitry Sches - [Thorn](https://dmitrysches.com/products/thorn)
+* Dmitry Sches - [Diversion](https://dmitrysches.com/products/diversion)
+* Spectrasonics - [Omnisphere](https://www.spectrasonics.net/products/omnisphere/)
+* Kirnu - [Cream](https://www.kirnuarp.com/cream)
+* Plugin Boutique - [Scaler 2](https://www.pluginboutique.com/products/6439-Scaler-2)
+* U-He - [Zebra Legacy](https://u-he.com/products/zebra-legacy/)
+* U-He - [Hive 2](https://u-he.com/products/hive/)
+* U-He - [Diva](https://u-he.com/products/diva/)
+* Sonic Academy - [ANA 2](https://www.sonicacademy.com/products/ana-2)
