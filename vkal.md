@@ -1,5 +1,5 @@
-# VSTs Known and Loved
-
+# VSTs Known And Loved
+---
 
 
 ## Synth
@@ -26,7 +26,7 @@
 * Integraudio & Sixth Sample - [Deelay](https://sixthsample.com/deelay/)
 * Linplug - [Free Alpha](https://plugins4free.com/plugin/2290/)
 * Manda Audio - [MT PowerDrumkit](https://www.powerdrumkit.com/)
-* Magnus @ Smart Electronix - mjHarmonicPingOnly (http://www.dontcrack.com/freeware/downloads.php/id/3316/software/MjHarmonicPingOnly/)
+* Magnus @ Smart Electronix - [mjHarmonicPingOnly](http://www.dontcrack.com/freeware/downloads.php/id/3316/software/MjHarmonicPingOnly/)
 * Majken - [SubDuer](https://plugins4free.com/plugin/428/)
 * MaxSynths - [Crysalis](https://plugins4free.com/plugin/2378/)
 * Nakst - [Apricot](https://nakst.gitlab.io/apricot/)
@@ -38,6 +38,7 @@
 * Ronan Fed - [Essence](https://plugins4free.com/plugin/3811/)
 * Ronan Fed - [Pneuma](https://plugins4free.com/plugin/3807/)
 * Seaweed Audio - [Fathom](https://www.fathomsynth.com)
+* SK - [Ganymed](https://plugins4free.com/plugin/250/)
 * Superwave Synths - [SuperwaveP8](https://plugins4free.com/plugin/244/)
 * Socalabs - [Wavetable](https://socalabs.com/synths/wavetable/)
 * Surge Synth Team - [Surge XT](https://surge-synthesizer.github.io)
